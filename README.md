@@ -39,3 +39,8 @@ int main(void){
 강조는 다음과 같이 할 수 있습니다.
 
 **치킨** 먹다가 ~~두드러기~~ 났어요.
+
+
+
+샘플
+![everytime](https://user-images.githubusercontent.com/18253602/51008980-780bef00-1591-11e9-9180-1b9365bf768c.png)
